@@ -1,0 +1,22 @@
+## Music Player Using Html, CSS, JavaScript
+
+This Project is the part of 30days JavaScript challange started from 01-Dec-2023.
+
+Day-06
+
+### Html
+
+I used semantic html and learn about the audio tag and source attribute with types of media files such as audio/mpeg
+### CSS
+
+While styling this page, I used absolute unit -- px. and % in some cases.
+
+I learn about the -webkit-appearance property and transform property in depth while creating this Music Player.
+
+### Javascript
+while creating this app I learn about how to manipulate html using js and learn about the classList, add, remove property.
+
+### Description
+
+HTML & CSS Music Player: I learn how to build a music player using HTML CSS and js. This music player will have all the features found in a typical music player. You will be able to add, play, pause and seek songs that have been added. 
+
